@@ -5,7 +5,7 @@ A voting app that uses [React](https://facebook.github.io/react) for UI, [MobX](
 
 ### Getting started
 ```
-git clone https://github.com/cosmicjs/cosmicapp-voting-app
+git clone https://github.com/alchristleo/testingvote.git
 cd cosmicapp-voting-app
 npm install
 ```
